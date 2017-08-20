@@ -3,7 +3,7 @@ A simple terminal metronome written in python
 ## Instalation
 To install just clone the repo,
 
-`git clone https://github.com/gabcoh/metronome.py`
+`git clone https://github.com/gabcoh/metronome.git`
 
 then install the required packages
 
